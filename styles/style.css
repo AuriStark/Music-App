@@ -78,10 +78,10 @@
         font-weight: 500;
     }
     
-    #progress.container {
+    #progress-container {
         height: 4px;
         width: 100%;
-        background-color: rgba(0, 0, 0, 0.2);
+        background-color: rgba(0, 0, 0, 0.4);
         margin: 2rem 0 1rem;
         cursor: pointer;
         border-radius: 8px;
